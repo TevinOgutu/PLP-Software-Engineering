@@ -1,0 +1,2 @@
+Project Name: ClickInn
+Project Description: An App that facilitates a seamless connection between local restaurants and customers and provides food deluvery at the customers convinent and comfort enhancing the overall customer experience.
